@@ -1,5 +1,5 @@
 # AI-Powered-Avatar
-AI-Power Avatar pratical workshop for the BTU AI Camp on XR and Emerging Technologies
+AI-Power Avatar pratical workshop for the [BTU] (https://btu.edu.ge/en/home-english/) AI Camp on XR and Emerging Technologies, Tbilissi - Georgia
 
 Project architecture :
   - index.html => Client side (3D Avatar, Text input prompt...)
